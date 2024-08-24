@@ -2,7 +2,7 @@
 # REGISTER NO 212222240103
 
 # Ex.No: 1B                     CONVERSION OF NON STATIONARY TO STATIONARY DATA
-# Date: 19.8.2024
+# Date: 
 
 ### AIM:
 To perform regular differncing,seasonal adjustment and log transformatio on international airline passenger data
