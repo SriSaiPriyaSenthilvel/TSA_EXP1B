@@ -5,7 +5,7 @@
 # Date: 
 
 ### AIM:
-To perform regular differncing,seasonal adjustment and log transformatio on international airline passenger data
+To perform regular differencing,seasonal adjustment and log transformation on international airline passenger data
 
 ### ALGORITHM:
 1. Import the required packages like pandas and numpy
@@ -78,5 +78,4 @@ train['PowerConsumption_Zone1_log_diff'].dropna().plot(title='Log Differenced Po
 
 
 ### RESULT:
-Thus we have created the python code for the conversion of non stationary to stationary data on international airline passenger
-data.
+Thus, The python code for the conversion of non stationary to stationary data of power consumption dataset is executed successfully.
