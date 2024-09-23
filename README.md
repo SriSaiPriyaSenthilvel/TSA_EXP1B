@@ -5,7 +5,7 @@
 # Date: 
 
 ### AIM:
-To perform regular differencing,seasonal adjustment and log transformation on international airline passenger data
+To perform regular differencing,seasonal adjustment and log transformation on powerconsumption data
 
 ### ALGORITHM:
 1. Import the required packages like pandas and numpy
